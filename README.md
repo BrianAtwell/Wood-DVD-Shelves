@@ -20,3 +20,7 @@ The short shelf has four shelves each 3' 5" wide. The overall dimensions are 3' 
 
 ### Assembly View
 ![Short DVD Shelf Assembly](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/ShortShelf/ShortDVDShelfAssembly.png)
+
+
+# Both Shelves
+![Both Shelves Assembly](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/RenderBoth_sm.png)
