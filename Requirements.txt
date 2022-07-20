@@ -1,0 +1,22 @@
+Wood 1 in x 8 in x 8 ft
+https://www.homedepot.com/p/1-in-x-8-in-x-8-ft-Premium-Kiln-Dried-Square-Edge-Whitewood-Common-Board-914835/100065210
+Common: 1 in. x 8 in. x 8 ft; Actual: 0.75 in. x 7.25 in. x 96 in.
+
+Wood for dead space and first shelf
+1 in. x 10 in. x 6 ft. Premium Kiln-Dried Square Edge Whitewood Common Board
+https://www.homedepot.com/p/1-in-x-10-in-x-6-ft-Premium-Kiln-Dried-Square-Edge-Whitewood-Common-Board-914894/100022066
+Common: 1 in. x 10 in. x 6 ft.; Actual: 0.75 in. x 9.25 in. x 72 in.
+
+77 1/2" width Max
+41" high at start of stairs 68" high at door
+
+29" from start of stairs to vent and vent is 13 1/2"
+
+Max parameters
+first shelf will be 42 1/2" wide and 41" high
+Second shelf will be 35" and 68" high
+
+
+Short Shelf will need 4" dead space on bottom to allow HVAC vent to vent.
+The front board will have slots for venting.
+42.5 - (2 boards * 0.75 board width) = 41"
