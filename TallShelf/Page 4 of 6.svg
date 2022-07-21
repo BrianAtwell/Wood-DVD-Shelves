@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<svg viewBox="0 0 2793 2158" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" height="215.8mm" xmlns:cc="http://creativecommons.org/ns#" baseProfile="tiny" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="279.3mm" version="1.2">
+<svg width="279.3mm" xmlns="http://www.w3.org/2000/svg" version="1.2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2793 2158" xmlns:cc="http://creativecommons.org/ns#" height="215.8mm" baseProfile="tiny" xmlns:freecad="http://www.freecadweb.org/wiki/index.php?title=Svg_Namespace">
  <title>FreeCAD SVG Export</title>
- <desc>Drawing page: Page004 exported from FreeCAD document: TallShelfV10_TechView</desc>
+ <desc>Drawing page: Page004 exported from FreeCAD document: TallShelfV12_TechViewV3</desc>
  <defs/>
  <g id="Page004">
-  <g transform="scale(10.000000, 10.000000)" id="USLetter_Landscape.svg" style="stroke: none;">
+  <g style="stroke: none;" transform="scale(10.000000, 10.000000)" id="USLetter_Landscape3.svg">
    <!-- Working space 10 10 269 205 -->
    <defs id="defs4"/>
    <metadata id="metadata7">
@@ -16,301 +16,301 @@
      </cc:Work>
     </rdf:RDF>
    </metadata>
-   <rect x="12.519713" y="6.678874" height="202.54224" width="254.3606" id="rectOutline" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.65775955;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate">
+   <rect width="254.3606" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.65775955;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="12.519713" y="6.678874" height="202.54224" id="rectOutline">
     <title id="title5119">OutLine</title>
    </rect>
-   <path d="m 139.64218,6.9148119 0,202.0703681" id="path4597" style="fill:none;stroke:#000000;stroke-width:0.66519201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-   <path d="m 12.458304,108.35656 254.483436,0" id="path4593" style="fill:none;stroke:#000000;stroke-width:0.66519201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-   <rect x="20.107342" y="14.472839" height="187.20015" width="239.51854" id="rect3675" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.6630953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="112.6289" y="153.49684" height="48.074078" width="146.65559" id="rect2985" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.79825026;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="159.85246" y="153.4258" height="48.216183" width="99.500763" id="rect3757" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.6584819;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="159.84586" y="153.41891" height="11.517738" width="99.514038" id="rect3767" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.64497554;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="159.84764" y="186.96977" height="14.677184" width="99.510429" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.64865696;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="rect3868"/>
-   <rect x="169.10579" y="186.95442" height="14.707904" width="90.267151" id="rect3765" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.61844289;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="195.0238" y="186.90643" height="14.803871" width="64.395569" id="rect3870" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.52405274;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="251.04272" y="186.96472" height="14.687314" width="8.3202477" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.63869441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="rect3872"/>
-   <rect x="159.84039" y="196.2122" height="5.4422503" width="99.524933" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.63390392;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="rect3864"/>
-   <rect x="183.4028" y="196.17357" height="5.5195618" width="75.999939" id="rect3763" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.55786246;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="218.66226" y="196.10049" height="5.6656508" width="40.811127" id="rect3866" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.41417363;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <path d="m 159.67919,170.97732 -47.00316,0" id="path5183" style="fill:none;stroke:#000000;stroke-width:0.66519201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-   <path d="m 145.35573,171.12106 0,9.05611" id="path5185" style="fill:none;stroke:#000000;stroke-width:0.26607683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
-   <rect x="112.95918" y="180.32959" height="5.4509139" width="46.6772" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="rect5966"/>
-   <rect x="112.95918" y="185.54738" height="5.4509139" width="46.6772" id="rect6005" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <rect x="112.95918" y="190.76511" height="5.4509139" width="46.6772" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="rect6007"/>
-   <rect x="112.95918" y="195.98289" height="5.4509139" width="46.6772" id="rect6009" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
-   <line x1="146.96535" y1="175.621" x2="157.8002" y2="175.621" id="line5117" style="stroke:#404040;stroke-width:0.05776427;stroke-dasharray:2.02174924, 0.28882132, 0.28882132, 0.28882132;stroke-dashoffset:17.5"/>
-   <line x1="155.09149" y1="172.54138" x2="155.09149" y2="178.70061" id="line5119" style="stroke:#404040;stroke-width:0.05776427;stroke-dasharray:2.02174924, 0.28882132, 0.28882132, 0.28882132;stroke-dashoffset:17.5"/>
-   <polygon points="10,90 10,10 90,30 90,70 " transform="matrix(0.05417425,0,0,0.06159218,146.98865,172.77981)" id="polygon5123" style="fill:none;stroke:#000000;stroke-width:2"/>
-   <ellipse ry="1.2318436" cy="175.85941" rx="1.083485" cx="155.11479" id="circle5125" style="fill:none;stroke:#000000;stroke-width:0.11552852"/>
-   <ellipse ry="2.4636872" cy="175.85941" rx="2.16697" cx="155.11479" id="circle5127" style="fill:none;stroke:#000000;stroke-width:0.11552852"/>
-   <text x="14.652468" y="153.68515" transform="scale(0.98356832,1.0167062)" id="text4599" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate">
-    <tspan x="14.652468" y="153.68515" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4601">A</tspan>
+   <path style="fill:none;stroke:#000000;stroke-width:0.66519201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 139.64218,6.9148119 0,202.0703681" id="path4597"/>
+   <path style="fill:none;stroke:#000000;stroke-width:0.66519201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 12.458304,108.35656 254.483436,0" id="path4593"/>
+   <rect width="239.51854" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.6630953;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="20.107342" y="14.472839" height="187.20015" id="rect3675"/>
+   <rect width="146.65559" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.79825026;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="112.6289" y="153.49684" height="48.074078" id="rect2985"/>
+   <rect width="99.500763" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.6584819;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="159.85246" y="153.4258" height="48.216183" id="rect3757"/>
+   <rect width="99.514038" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.64497554;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="159.84586" y="153.41891" height="11.517738" id="rect3767"/>
+   <rect width="99.510429" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.64865696;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="159.84764" y="186.96977" height="14.677184" id="rect3868"/>
+   <rect width="90.267151" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.61844289;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="169.10579" y="186.95442" height="14.707904" id="rect3765"/>
+   <rect width="64.395569" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.52405274;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="195.0238" y="186.90643" height="14.803871" id="rect3870"/>
+   <rect width="8.3202477" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.63869441;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="251.04272" y="186.96472" height="14.687314" id="rect3872"/>
+   <rect width="99.524933" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.63390392;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="159.84039" y="196.2122" height="5.4422503" id="rect3864"/>
+   <rect width="75.999939" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.55786246;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="183.4028" y="196.17357" height="5.5195618" id="rect3763"/>
+   <rect width="40.811127" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.41417363;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="218.66226" y="196.10049" height="5.6656508" id="rect3866"/>
+   <path style="fill:none;stroke:#000000;stroke-width:0.66519201;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 159.67919,170.97732 -47.00316,0" id="path5183"/>
+   <path style="fill:none;stroke:#000000;stroke-width:0.26607683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 145.35573,171.12106 0,9.05611" id="path5185"/>
+   <rect width="46.6772" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="112.95918" y="180.32959" height="5.4509139" id="rect5966"/>
+   <rect width="46.6772" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="112.95918" y="185.54738" height="5.4509139" id="rect6005"/>
+   <rect width="46.6772" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="112.95918" y="190.76511" height="5.4509139" id="rect6007"/>
+   <rect width="46.6772" style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:0.99607843;fill-rule:nonzero;stroke:#000000;stroke-width:0.62538338;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" x="112.95918" y="195.98289" height="5.4509139" id="rect6009"/>
+   <line y2="175.621" style="stroke:#404040;stroke-width:0.05776427;stroke-dasharray:2.02174924, 0.28882132, 0.28882132, 0.28882132;stroke-dashoffset:17.5" y1="175.621" x2="157.8002" id="line5117" x1="146.96535"/>
+   <line y2="178.70061" style="stroke:#404040;stroke-width:0.05776427;stroke-dasharray:2.02174924, 0.28882132, 0.28882132, 0.28882132;stroke-dashoffset:17.5" y1="172.54138" x2="155.09149" id="line5119" x1="155.09149"/>
+   <polygon points="10,90 10,10 90,30 90,70 " style="fill:none;stroke:#000000;stroke-width:2" transform="matrix(0.05417425,0,0,0.06159218,146.98865,172.77981)" id="polygon5123"/>
+   <ellipse cx="155.11479" cy="175.85941" style="fill:none;stroke:#000000;stroke-width:0.11552852" ry="1.2318436" id="circle5125" rx="1.083485"/>
+   <ellipse cx="155.11479" cy="175.85941" style="fill:none;stroke:#000000;stroke-width:0.11552852" ry="2.4636872" id="circle5127" rx="2.16697"/>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="14.652468" y="153.68515" id="text4599">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="14.652468" y="153.68515" id="tspan4601">A</tspan>
    </text>
-   <text x="14.626484" y="55.709824" transform="scale(0.98356832,1.0167062)" id="text4603" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate">
-    <tspan x="14.626484" y="55.709824" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4605">B</tspan>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="14.626484" y="55.709824" id="text4603">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="14.626484" y="55.709824" id="tspan4605">B</tspan>
    </text>
-   <text x="265.29684" y="153.68515" transform="scale(0.98356832,1.0167062)" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" id="text4607">
-    <tspan x="265.29684" y="153.68515" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4609">A</tspan>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="265.29684" y="153.68515" id="text4607">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="265.29684" y="153.68515" id="tspan4609">A</tspan>
    </text>
-   <text x="265.27084" y="55.709824" transform="scale(0.98356832,1.0167062)" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" id="text4611">
-    <tspan x="265.27084" y="55.709824" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4613">B</tspan>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="265.27084" y="55.709824" id="text4611">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="265.27084" y="55.709824" id="tspan4613">B</tspan>
    </text>
-   <text x="201.77625" y="204.16963" transform="scale(0.98356832,1.0167062)" id="text4615" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate">
-    <tspan x="201.77625" y="204.16963" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4617">1</tspan>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="201.77625" y="204.16963" id="text4615">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="201.77625" y="204.16963" id="tspan4617">1</tspan>
    </text>
-   <text x="77.007645" y="204.20473" transform="scale(0.98356832,1.0167062)" id="text4619" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate">
-    <tspan x="77.007645" y="204.20473" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4621">2</tspan>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="77.007645" y="204.20473" id="text4619">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="77.007645" y="204.20473" id="tspan4621">2</tspan>
    </text>
-   <text x="201.77625" y="12.062176" transform="scale(0.98356832,1.0167062)" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" id="text4623">
-    <tspan x="201.77625" y="12.062176" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4625">1</tspan>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="201.77625" y="12.062176" id="text4623">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="201.77625" y="12.062176" id="tspan4625">1</tspan>
    </text>
-   <text x="77.007645" y="12.097256" transform="scale(0.98356832,1.0167062)" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" id="text4627">
-    <tspan x="77.007645" y="12.097256" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan4629">2</tspan>
+   <text style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" transform="scale(0.98356832,1.0167062)" x="77.007645" y="12.097256" id="text4627">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="77.007645" y="12.097256" id="tspan4629">2</tspan>
    </text>
-   <text x="115.58746" y="181.99789" transform="scale(0.98782896,1.012321)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" id="text3332">
+   <text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" transform="scale(0.98782896,1.012321)" x="115.58746" y="181.99789" id="text3332">
     <tspan x="115.58746" y="181.99789" id="tspan3334">Drawn:</tspan>
    </text>
-   <text x="115.58746" y="186.89949" transform="scale(0.98782896,1.012321)" id="text3348" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="115.58746" y="186.89949" style="font-family:sans-serif" id="tspan3350">Checked:</tspan>
+   <text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" transform="scale(0.98782896,1.012321)" x="115.58746" y="186.89949" id="text3348">
+    <tspan style="font-family:sans-serif" x="115.58746" y="186.89949" id="tspan3350">Checked:</tspan>
    </text>
-   <text x="115.58746" y="191.84903" transform="scale(0.98782896,1.012321)" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" id="text3364">
-    <tspan x="115.58746" y="191.84903" style="font-family:sans-serif" id="tspan3366">Approved:</tspan>
+   <text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" transform="scale(0.98782896,1.012321)" x="115.58746" y="191.84903" id="text3364">
+    <tspan style="font-family:sans-serif" x="115.58746" y="191.84903" id="tspan3366">Approved:</tspan>
    </text>
-   <text x="115.58746" y="197.14716" transform="scale(0.98782896,1.012321)" id="text3380" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="115.58746" y="197.14716" style="font-family:sans-serif" id="tspan3382">Approved:</tspan>
+   <text style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.11443925px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" transform="scale(0.98782896,1.012321)" x="115.58746" y="197.14716" id="text3380">
+    <tspan style="font-family:sans-serif" x="115.58746" y="197.14716" id="tspan3382">Approved:</tspan>
    </text>
-   <text x="163.36607" y="157.8326" freecad:editable="CompanyName" id="BlockACompany" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24420738px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate">
-    <tspan x="163.36607" y="157.8326" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24420738px;font-family:sans-serif;-inkscape-font-specification:sans-serif" id="tspan6595"/>
+   <text freecad:editable="CompanyName" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24420738px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate" x="163.36607" y="157.8326" id="BlockACompany">
+    <tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24420738px;font-family:sans-serif;-inkscape-font-specification:sans-serif" x="163.36607" xml:space="preserve" y="157.8326" id="tspan6595"/>
    </text>
-   <text x="163.19182" y="162.85323" freecad:editable="CompanyAddress" id="BlockAAddress" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24420738px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate">
-    <tspan x="163.19182" y="162.85323" xml:space="preserve" id="tspan6603"/>
+   <text freecad:editable="CompanyAddress" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.24420738px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate" x="163.19182" y="162.85323" id="BlockAAddress">
+    <tspan x="163.19182" xml:space="preserve" y="162.85323" id="tspan6603"/>
    </text>
-   <text x="163.88148" y="171.13162" freecad:editable="DrawingTitle1" id="BlockB Title1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.24250364px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan xml:space="preserve" style="font-family:sans-serif" id="tspan4467">Tall DVD Shelf</tspan>
+   <text freecad:editable="DrawingTitle1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.24250364px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="163.88148" y="171.13162" id="BlockB Title1">
+    <tspan style="font-family:sans-serif" xml:space="preserve" id="tspan4467">Tall DVD Shelf</tspan>
    </text>
-   <text x="164.08731" y="176.80217" freecad:editable="DrawingTitle2" id="BlockBTitle2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="164.08731" y="176.80217" xml:space="preserve" style="font-size:3.14550209px;line-height:1.25" id="tspan3762-4">Common Shelf Boards</tspan>
+   <text freecad:editable="DrawingTitle2" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="164.08731" y="176.80217" id="BlockBTitle2">
+    <tspan style="font-size:3.14550209px;line-height:1.25" x="164.08731" xml:space="preserve" y="176.80217" id="tspan3762-4">Common Boards</tspan>
    </text>
-   <text x="164.08731" y="182.7054" freecad:editable="DrawingTitle3" id="BlockB Title3" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="164.08731" y="182.7054" xml:space="preserve" style="font-size:3.14550209px;line-height:1.25" id="tspan3766-5">Top View</tspan>
+   <text freecad:editable="DrawingTitle3" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="164.08731" y="182.7054" id="BlockB Title3">
+    <tspan style="font-size:3.14550209px;line-height:1.25" x="164.08731" xml:space="preserve" y="182.7054" id="tspan3766-5">Top View</tspan>
    </text>
-   <text x="198.43159" y="193.43471" freecad:editable="DrawingNumber" id="BlockC DrawingNumber" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate">
-    <tspan x="198.43159" y="193.43471" xml:space="preserve" style="font-size:4.19400311px;line-height:1.25;font-family:sans-serif" id="tspan3792-9">Drawing 004</tspan>
+   <text freecad:editable="DrawingNumber" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" x="198.43159" y="193.43471" id="BlockC DrawingNumber">
+    <tspan style="font-size:4.19400311px;line-height:1.25;font-family:sans-serif" x="198.43159" xml:space="preserve" y="193.43471" id="tspan3792-9">Drawing 004</tspan>
    </text>
-   <text x="252.18163" y="193.06583" freecad:editable="Revision" id="BlockD Revision" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate">
-    <tspan x="252.18163" y="193.06583" xml:space="preserve" style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" id="tspan3796-0">Rev</tspan>
+   <text freecad:editable="Revision" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" x="252.18163" y="193.06583" id="BlockD Revision">
+    <tspan style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" x="252.18163" xml:space="preserve" y="193.06583" id="tspan3796-0">Rev</tspan>
    </text>
-   <text x="134.63594" y="184.10947" freecad:editable="DrawnBy" id="BlockE DrawnBy" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2;stroke-opacity:1;marker:none;enable-background:accumulate">
-    <tspan x="134.63594" y="184.10947" xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94890809px;line-height:1.25;font-family:sans;-inkscape-font-specification:sans;stroke:none" id="tspan6969">Brian Atwell</tspan>
+   <text freecad:editable="DrawnBy" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:2;stroke-opacity:1;marker:none;enable-background:accumulate" x="134.63594" y="184.10947" id="BlockE DrawnBy">
+    <tspan style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94890809px;line-height:1.25;font-family:sans;-inkscape-font-specification:sans;stroke:none" x="134.63594" xml:space="preserve" y="184.10947" id="tspan6969">Drawn By</tspan>
    </text>
-   <text x="134.75978" y="189.3239" freecad:editable="CheckedBy" id="BlockE CheckedBy" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate">
-    <tspan x="134.75978" y="189.3239" xml:space="preserve" style="font-size:2.94890809px;line-height:1.25" id="tspan6973"/>
+   <text freecad:editable="CheckedBy" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate" x="134.75978" y="189.3239" id="BlockE CheckedBy">
+    <tspan style="font-size:2.94890809px;line-height:1.25" x="134.75978" xml:space="preserve" y="189.3239" id="tspan6973"/>
    </text>
-   <text x="134.90233" y="194.49297" freecad:editable="Approved1" id="BlockE Approved1" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate">
-    <tspan x="134.90233" y="194.49297" xml:space="preserve" style="font-size:2.94890809px;line-height:1.25" id="tspan6977"/>
+   <text freecad:editable="Approved1" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate" x="134.90233" y="194.49297" id="BlockE Approved1">
+    <tspan style="font-size:2.94890809px;line-height:1.25" x="134.90233" xml:space="preserve" y="194.49297" id="tspan6977"/>
    </text>
-   <text x="134.90233" y="199.66203" freecad:editable="Approved2" id="BlockE Approved2" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate">
-    <tspan x="134.90233" y="199.66203" xml:space="preserve" style="font-size:2.94890809px;line-height:1.25" id="tspan6981"/>
+   <text freecad:editable="Approved2" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans;-inkscape-font-specification:sans;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;marker:none;enable-background:accumulate" x="134.90233" y="199.66203" id="BlockE Approved2">
+    <tspan style="font-size:2.94890809px;line-height:1.25" x="134.90233" xml:space="preserve" y="199.66203" id="tspan6981"/>
    </text>
-   <text x="164.06125" y="200.17592" freecad:editable="Scale" id="BlockH Scale" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="164.06125" y="200.17592" xml:space="preserve" style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" id="tspan3770-2">0.11</tspan>
+   <text freecad:editable="Scale" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="164.06125" y="200.17592" id="BlockH Scale">
+    <tspan style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" x="164.06125" xml:space="preserve" y="200.17592" id="tspan3770-2">0.11</tspan>
    </text>
-   <text x="172.15469" y="193.31693" freecad:editable="Code" id="BlockI Code" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate">
-    <tspan x="172.15469" y="193.31693" xml:space="preserve" style="font-size:4.19400311px;line-height:1.25;font-family:sans-serif" id="tspan3788-7">Code</tspan>
+   <text freecad:editable="Code" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;marker:none;enable-background:accumulate" x="172.15469" y="193.31693" id="BlockI Code">
+    <tspan style="font-size:4.19400311px;line-height:1.25;font-family:sans-serif" x="172.15469" xml:space="preserve" y="193.31693" id="tspan3788-7">Code</tspan>
    </text>
-   <text x="162.48712" y="193.14726" id="BlockJ Size" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="162.48712" y="193.14726" style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" id="tspan3784">A</tspan>
+   <text style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="162.48712" y="193.14726" id="BlockJ Size">
+    <tspan style="font-size:5.32153606px;line-height:1.25;font-family:sans-serif" x="162.48712" y="193.14726" id="tspan3784">A</tspan>
    </text>
-   <text x="189.79546" y="200.13062" freecad:editable="Weight" id="BlockK Weight" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="189.79546" y="200.13062" xml:space="preserve" style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" id="tspan3774-9"/>
-    <tspan x="189.79546" y="204.39665" xml:space="preserve" style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" id="tspan3776-8"/>
+   <text freecad:editable="Weight" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="189.79546" y="200.13062" id="BlockK Weight">
+    <tspan style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" x="189.79546" xml:space="preserve" y="200.13062" id="tspan3774-9"/>
+    <tspan style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" x="189.79546" xml:space="preserve" y="204.39665" id="tspan3776-8"/>
    </text>
-   <text x="225.1777" y="200.17592" freecad:editable="Sheet" id="BlockL Sheet" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none">
-    <tspan x="225.1777" y="200.17592" xml:space="preserve" style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" id="tspan3780-0">Sheet 4 of 6</tspan>
+   <text freecad:editable="Sheet" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none" x="225.1777" y="200.17592" id="BlockL Sheet">
+    <tspan style="font-size:3.14550209px;line-height:1.25;font-family:sans-serif" x="225.1777" xml:space="preserve" y="200.17592" id="tspan3780-0">Sheet 4 of 6</tspan>
    </text>
   </g>
-  <g stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" fill="none" id="DrawingContent">
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="none" font-size="29.1042" font-style="normal" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="#ffffff">
+  <g fill-rule="evenodd" stroke="black" fill="none" stroke-linejoin="bevel" stroke-width="1" id="DrawingContent" stroke-linecap="square">
+   <g font-size="29.1042" font-style="normal" stroke="none" fill="#ffffff" transform="matrix(1,0,0,1,822.172,349.25)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282 L474.98,-101.283 L-474.98,-101.283 L-474.98,101.282" vector-effect="non-scaling-stroke"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L-474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M474.98,101.282 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,-101.283 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,726.906,1231.3)" font-weight="400" fill="none">
-    <text font-family="osifont" x="4" fill-opacity="1" stroke="none" y="70" font-size="50" font-style="normal" xml:space="preserve" font-weight="400" fill="#000000">2' 10"</text>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,614.557,1290.99)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <text font-size="50" font-style="normal" stroke="none" fill="#000000" fill-opacity="1" font-weight="400" xml:space="preserve" x="4" y="70" font-family="osifont">2' 10"</text>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
-    <path fill-rule="evenodd" d="M-474.98,977.069 L474.98,977.069 M474.98,-101.283 L474.98,1005.07 M-474.98,-101.283 L-474.98,1005.07" vector-effect="none"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
+    <path fill-rule="evenodd" d="M-474.98,1028.24 L474.98,1028.24 M474.98,-101.283 L474.98,1056.24 M-474.98,-101.283 L-474.98,1056.24" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1232.37,1317.8)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1297.15,1377.49)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L-50,-8.33333 L-50,8.33333 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,282.411,1317.8)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,347.192,1377.49)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L50,8.33333 L50,-8.33333 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1,1,0,2466.71,406.93)" font-weight="400" fill="none">
-    <text font-family="osifont" x="4" fill-opacity="1" stroke="none" y="70" font-size="50" font-style="normal" xml:space="preserve" font-weight="400" fill="#000000">7+1/4"</text>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(0,-1,1,0,2462.34,418.596)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <text font-size="50" font-style="normal" stroke="none" fill="#000000" fill-opacity="1" font-weight="400" xml:space="preserve" x="4" y="70" font-family="osifont">7+1/4"</text>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,757.391,340.727)" font-weight="400" fill="none">
-    <path fill-rule="evenodd" d="M1795.57,-101.282 L1795.57,101.283 M-474.98,101.282 L1823.57,101.283 M-474.98,-101.283 L1823.57,-101.282" vector-effect="none"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,822.172,349.25)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
+    <path fill-rule="evenodd" d="M1726.42,-101.282 L1726.42,101.283 M-474.98,101.282 L1754.42,101.283 M-474.98,-101.283 L1754.42,-101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2552.96,442.009)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,2548.59,450.532)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L8.33333,-50 L-8.33333,-50 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2552.96,239.444)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,2548.59,247.967)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L-8.33333,50 L8.33333,50 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="none" font-size="29.1042" font-style="normal" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="#ffffff">
+   <g font-size="29.1042" font-style="normal" stroke="none" fill="#ffffff" transform="matrix(1,0,0,1,825.5,698.5)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282 L474.98,-101.283 L-474.98,-101.283 L-474.98,101.282" vector-effect="non-scaling-stroke"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,698.5)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,698.5)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L-474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,698.5)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M474.98,101.282 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,698.5)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,698.5)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,-101.283 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,698.5)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1,1,0,2474.46,736.096)" font-weight="400" fill="none">
-    <text font-family="osifont" x="4" fill-opacity="1" stroke="none" y="70" font-size="50" font-style="normal" xml:space="preserve" font-weight="400" fill="#000000">7+1/4"</text>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(0,-1,1,0,2459.38,755.274)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <text font-size="50" font-style="normal" stroke="none" fill="#000000" fill-opacity="1" font-weight="400" xml:space="preserve" x="4" y="70" font-family="osifont">7+1/4"</text>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,666.75)" font-weight="400" fill="none">
-    <path fill-rule="evenodd" d="M1798.71,-101.282 L1798.71,101.283 M-474.98,101.282 L1826.71,101.283 M-474.98,-101.283 L1826.71,-101.282" vector-effect="none"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,698.5)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
+    <path fill-rule="evenodd" d="M1720.13,-101.282 L1720.13,101.283 M-474.98,101.282 L1748.13,101.283 M-474.98,-101.283 L1748.13,-101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2560.71,768.032)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,2545.63,799.782)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L8.33333,-50 L-8.33333,-50 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2560.71,565.467)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,2545.63,597.217)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L-8.33333,50 L8.33333,50 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="none" font-size="29.1042" font-style="normal" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="#ffffff">
+   <g font-size="29.1042" font-style="normal" stroke="none" fill="#ffffff" transform="matrix(1,0,0,1,825.5,1063.63)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282 L474.98,-101.283 L-474.98,-101.283 L-474.98,101.282" vector-effect="non-scaling-stroke"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,1063.63)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,1063.63)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L-474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,1063.63)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M474.98,101.282 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,1063.63)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,1063.63)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,-101.283 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,1063.63)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-1,1,0,2477.61,1040.75)" font-weight="400" fill="none">
-    <text font-family="osifont" x="4" fill-opacity="1" stroke="none" y="70" font-size="50" font-style="normal" xml:space="preserve" font-weight="400" fill="#000000">7+1/4"</text>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(0,-1,1,0,2465.67,1126.06)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <text font-size="50" font-style="normal" stroke="none" fill="#000000" fill-opacity="1" font-weight="400" xml:space="preserve" x="4" y="70" font-family="osifont">7+1/4"</text>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,762,987.119)" font-weight="400" fill="none">
-    <path fill-rule="evenodd" d="M1801.86,-101.282 L1801.86,101.283 M-474.98,101.282 L1829.86,101.283 M-474.98,-101.283 L1829.86,-101.282" vector-effect="none"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,825.5,1063.63)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
+    <path fill-rule="evenodd" d="M1726.42,-101.282 L1726.42,101.283 M-474.98,101.282 L1754.42,101.283 M-474.98,-101.283 L1754.42,-101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2563.86,1088.4)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,2551.92,1164.91)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L8.33333,-50 L-8.33333,-50 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2563.86,885.837)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,2551.92,962.347)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L-8.33333,50 L8.33333,50 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="none" font-size="29.1042" font-style="normal" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="#ffffff">
+   <g font-size="29.1042" font-style="normal" stroke="none" fill="#ffffff" transform="matrix(1,0,0,1,1967.3,346.255)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282 L474.98,-101.283 L-474.98,-101.283 L-474.98,101.282" vector-effect="non-scaling-stroke"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1967.3,346.255)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1967.3,346.255)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L-474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1967.3,346.255)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M474.98,101.282 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1967.3,346.255)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1967.3,346.255)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,-101.283 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1967.3,346.255)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1927.81,1233.5)" font-weight="400" fill="none">
-    <text font-family="osifont" x="4" fill-opacity="1" stroke="none" y="70" font-size="50" font-style="normal" xml:space="preserve" font-weight="400" fill="#000000">2' 10"</text>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1946.77,1274.54)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <text font-size="50" font-style="normal" stroke="none" fill="#000000" fill-opacity="1" font-weight="400" xml:space="preserve" x="4" y="70" font-family="osifont">2' 10"</text>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1982.92,339.786)" font-weight="400" fill="none">
-    <path fill-rule="evenodd" d="M-474.98,980.213 L474.98,980.213 M474.98,-101.283 L474.98,1008.21 M-474.98,-101.283 L-474.98,1008.21" vector-effect="none"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1967.3,346.255)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
+    <path fill-rule="evenodd" d="M-474.98,1014.79 L474.98,1014.79 M474.98,-101.283 L474.98,1042.79 M-474.98,-101.283 L-474.98,1042.79" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,2457.9,1320)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,2442.28,1361.04)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L-50,-8.33333 L-50,8.33333 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1507.94,1320)" font-weight="400" fill="#000000">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="#000000" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1492.32,1361.04)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="3.5" stroke-linecap="round">
     <path fill-rule="evenodd" d="M0,0 L50,8.33333 L50,-8.33333 L0,0" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="none" font-size="29.1042" font-style="normal" transform="matrix(1,0,0,1,1984.38,666.75)" font-weight="400" fill="#ffffff">
+   <g font-size="29.1042" font-style="normal" stroke="none" fill="#ffffff" transform="matrix(1,0,0,1,1976.35,703.825)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282 L474.98,-101.283 L-474.98,-101.283 L-474.98,101.282" vector-effect="non-scaling-stroke"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,666.75)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1976.35,703.825)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1976.35,703.825)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L-474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1976.35,703.825)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M474.98,101.282 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1976.35,703.825)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,666.75)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1976.35,703.825)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,-101.283 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" fill-opacity="1" stroke="none" font-size="29.1042" font-style="normal" transform="matrix(1,0,0,1,1984.38,984.25)" font-weight="400" fill="#ffffff">
+   <g font-size="29.1042" font-style="normal" stroke="none" fill="#ffffff" transform="matrix(1,0,0,1,1968.5,1059.21)" fill-opacity="1" font-weight="400" font-family="MS Shell Dlg 2">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282 L474.98,-101.283 L-474.98,-101.283 L-474.98,101.282" vector-effect="non-scaling-stroke"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,984.25)" font-weight="400" fill="none">
-    <rect x="0" y="0" height="0" width="0"/>
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1968.5,1059.21)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="1" stroke-linecap="square">
+    <rect width="0" x="0" y="0" height="0"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,984.25)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1968.5,1059.21)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L-474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,984.25)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1968.5,1059.21)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M474.98,101.282 L474.98,-101.283" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,984.25)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1968.5,1059.21)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,101.282 L474.98,101.282" vector-effect="none"/>
    </g>
-   <g font-family="MS Shell Dlg 2" stroke="#000000" stroke-opacity="1" font-size="29.1042" font-style="normal" stroke-width="7" stroke-linecap="round" stroke-linejoin="bevel" transform="matrix(1,0,0,1,1984.38,984.25)" font-weight="400" fill="none">
+   <g font-size="29.1042" font-style="normal" stroke="#000000" fill="none" stroke-linejoin="bevel" stroke-opacity="1" transform="matrix(1,0,0,1,1968.5,1059.21)" font-weight="400" font-family="MS Shell Dlg 2" stroke-width="7" stroke-linecap="round">
     <path fill-rule="evenodd" d="M-474.98,-101.283 L474.98,-101.283" vector-effect="none"/>
    </g>
   </g>
