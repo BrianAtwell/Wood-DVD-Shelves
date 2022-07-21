@@ -7,7 +7,7 @@ There are two shelves, a short and a tall one.
 The tall shelf has seven shelves each 2' 10" wide. The overall dimensions are 2' 11" wide by 5' 5+3/4" high.
 
 ### Perspective View
-![Tall DVD Shelf Perpective view](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/TallShelf/TallShelfRenderPerspective.png)
+[![Tall DVD Shelf Perpective view](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/TallShelf/TallShelfRenderPerspective_sm.png)](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/TallShelf/TallShelfRenderPerspective.png)
 
 ### Assembly View
 ![Tall DVD Shelf Assembly](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/TallShelf/TallDVDShelfAssembly.png)
@@ -16,7 +16,7 @@ The tall shelf has seven shelves each 2' 10" wide. The overall dimensions are 2'
 The short shelf has four shelves each 3' 5" wide. The overall dimensions are 3' 6+1/2" wide by 3' 3+3/4" high.
 
 ### Perspective View
-![Short DVD Shelf Perpective view](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/ShortShelf/ShortShelfRenderPerspective.png)
+[![Short DVD Shelf Perpective view](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/ShortShelf/ShortShelfRenderPerspective_sm.png)](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/ShortShelf/ShortShelfRenderPerspective.png)
 
 ### Assembly View
 ![Short DVD Shelf Assembly](https://raw.githubusercontent.com/BrianAtwell/Wood-DVD-Shelves/main/ShortShelf/ShortDVDShelfAssembly.png)
